@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
        
         <div>
-            <p>Hello Word!!!</p>
+            <p>Hello Guys!!!</p>
         </Div>
        
     </body>
